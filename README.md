@@ -68,6 +68,14 @@ This application serves as a **personal finance tracker**, enabling users to **r
 4. **Searching for Transactions & Contacts**
    - The search bar allows users to **find contacts and transactions instantly**.
    - Filters results **based on name or phone number**.
+![a88848b9-d293-4fb4-a67d-4825c0119bdd](https://github.com/user-attachments/assets/576b9c50-fd2b-418e-822b-b74fc58cdaad)
+![a](https://github.com/user-attachments/assets/d0c4abe4-d836-4d0d-b4b1-2dcc2737df95)
+![976ea96d-af23-4be6-b4ba-aa25da6fd4aa](https://github.com/user-attachments/assets/fb5946e4-71f8-41a1-b1bc-69ebfd032bc9)
+![82ececf5-881d-467b-b235-da0bdc77188e](https://github.com/user-attachments/assets/bd82aed0-ac89-4739-8cf7-7fc1f8e615fd)
+![43d18de8-342f-43d8-895a-b68f3dd2780b](https://github.com/user-attachments/assets/6e28046c-1a6a-48b7-b1a7-c2eb0b2e7839)
+![9fcb7255-448f-4d74-84c3-e126f02e257f](https://github.com/user-attachments/assets/57c82620-cfc5-4b55-9b65-495039a6fb51)
+![3da903cc-f43e-4664-b5ef-ee1038cd1fc1](https://github.com/user-attachments/assets/a15dbb23-bd14-43ce-95de-aae94adf429c)
+![e6c93b5f-8b12-4105-8f3b-50700e5d58da](https://github.com/user-attachments/assets/1d267e6c-b977-434c-bcb2-f4a83040a153)
 
 ## Why Lane-Dane?
 
